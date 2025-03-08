@@ -1,10 +1,10 @@
 ### 👋 Hello! I'm Taxzyyy!
 <hr>
 
-I am a Danish Developer which is leader of [Taxzyyy Scripts](https://discord.gg/5Y8hqr64fJ). <br>
+I am a Danish Developer which is owner of [Taxzyyy Scripts](https://discord.gg/5Y8hqr64fJ). <br>
 I'm specialized in creation of **GTA V (FiveM)** & **Red Dead Redemption II (RedM)** scripts.
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white)](https://taxzyyyscripts.xyz/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white)](https://store.taxzyyyscripts.xyz/)
 ![Profile view](https://komarev.com/ghpvc/?username=TaxiMax1&label=Profile%20views&color=ff7c00&style=for-the-badge)
 
 ### When i code, i rely on

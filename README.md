@@ -28,7 +28,7 @@ My focus is on **performance, Clean UI, and immersive gameplay systems**.
 
 ## 🌍 Connect
 [![Website](https://img.shields.io/badge/TXZ%20Store-000?style=for-the-badge&logo=vercel&logoColor=white)](https://store.taxzyyyscripts.xyz/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5Y8hqr64fJ)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GhKgp6yWtJ)
 
 ---
 

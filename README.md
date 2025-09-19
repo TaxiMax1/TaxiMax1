@@ -1,4 +1,4 @@
-# Hi, I’m **Taxzyyy**
+# Hello, I’m **Taxzyyy**
 
 ### Danish Developer | Owner of [TXZ Scripts](https://txzscripts.com/)
 
